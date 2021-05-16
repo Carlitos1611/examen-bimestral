@@ -1,0 +1,46 @@
+body{
+    
+    border:0px;
+    padding: 0px;
+    background-image: url('../img/historia.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.holaaa{
+    padding-top: 30em;
+    padding-left: 10em;
+    color:#6C7077;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.textos{
+    color: rgb(124, 120, 120);
+    padding-left: 10em;
+    padding-right: 44em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.textoos{
+    color: rgb(124, 120, 120);
+    padding-left: 10em;
+    padding-right: 44em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 20em;
+}
+.tituloo{
+    padding-top: 15em;
+}
+.second-cua{
+    border:0px;
+    padding: 0px;
+    background-image: url('../img/historia\ \(3\).png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 15em;
+    padding-left: 10em;
+    color:#6C7077;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.chile{
+    padding-right: 44em;
+    padding-left: 10em;
+    padding-bottom: 10em;
+}

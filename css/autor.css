@@ -1,0 +1,50 @@
+body{
+    
+    border:0px;
+    padding: 0px;
+    background-image: url('../img/paisajes\ \(3\).png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.hola1{
+    padding-top: 23em;
+    padding-left: 10em;
+    color:#6C7077;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.textoautor{
+    padding-left: 15em;
+}
+.textodraw{
+    padding-left: 25em;
+}
+.hola1 img{
+    width: 58%;
+}
+.textito{
+    color: rgb(124, 120, 120);
+    padding-left: 10em;
+    padding-right: 44em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.titulos{
+    color: rgb(124, 120, 120);
+    padding-left: 25em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.segundo-cua{
+    background-image: url('../img/paisajes\ \(4\).png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-bottom: 0em;
+}
+.me{
+    margin-bottom: 0em;
+    padding-bottom: 10em;
+    padding-top: 45em;
+    padding-left: 10em;
+    padding-right: 50em;
+    color: rgb(124, 120, 120);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
